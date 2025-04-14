@@ -2,4 +2,7 @@ import React from "react";
 
 import playlists from "../../mocks/playlists";
 
-console.log (playlists);
+export default PlaylistItem({ nome, imagem }) {
+    return ()
+}
+
