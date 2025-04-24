@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { StyleSheet, Image, ScrollView, TouchableOpacity, Text} from "react-native";
+import { StyleSheet, Image, ScrollView, TouchableOpacity} from "react-native";
 
 import Texto from "../../components/Texto";
 import login from "../../../assets/login.png"
