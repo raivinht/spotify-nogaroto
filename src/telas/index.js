@@ -2,7 +2,7 @@ import React from "react";
 
 import Logo from "./components/logo";
 import { ScrollView, StyleSheet } from "react-native";
-import Playlists from "./components/playlist";
+import Playlists from "./components/grade";
 
 export default function Page({topo, playlists}) {
     return <ScrollView style={estilos.container}>
