@@ -1,4 +1,6 @@
 import playlists from "./playlistsNames";
+import recommended from "./recommend";
+import podcasts from "./podcasts";
 
 const music = {
     topo: {
@@ -7,6 +9,8 @@ const music = {
         t3: "Podcasts",
     },
     playlists,
+    recommended,
+    podcasts,
 }
 
 export default music;

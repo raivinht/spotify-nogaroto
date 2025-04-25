@@ -1,11 +1,11 @@
-const recommended = {
+const podcasts = {
     titulo: 'Seus mais ouvidos',
     lista: [
         {
             id: '1',
-            titulo: 'GOOD:AM',
-            descricao: 'Mac Miller',
-            imagem: require('../../assets/ouvido/goodam.png')
+            titulo: 'Philosofize This!',
+            descricao: 'Stephen West',
+            imagem: require('../../assets/podcasts/pt.png')
         },
         {
             id: '2',
@@ -28,4 +28,4 @@ const recommended = {
     ]
 };
 
-export default recommended;
+export default podcasts;
