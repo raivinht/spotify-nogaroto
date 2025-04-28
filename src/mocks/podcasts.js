@@ -1,5 +1,5 @@
 const podcasts = {
-    titulo: 'Seus mais ouvidos',
+    titulo: 'Podcasts',
     lista: [
         {
             id: '1',
