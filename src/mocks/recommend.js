@@ -24,6 +24,12 @@ const recommended = {
             titulo: 'Patrono',
             descricao: '2ZDinizz',
             imagem: require('../../assets/ouvido/patrono.png')
+        },
+        {
+            id: '5',
+            titulo: 'Utopia',
+            descricao: 'Travis Scott',
+            imagem: require('../../assets/ouvido/utopia.png')
         }
     ]
 };

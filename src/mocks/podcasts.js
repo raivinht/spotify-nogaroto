@@ -3,27 +3,27 @@ const podcasts = {
     lista: [
         {
             id: '1',
-            titulo: 'Philosofize This!',
+            titulo: 'Philosophize This!',
             descricao: 'Stephen West',
             imagem: require('../../assets/podcasts/pt.png')
         },
         {
             id: '2',
-            titulo: 'I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)',
-            descricao: 'JPEGMAFIA',
-            imagem: require('../../assets/ouvido/ildmlfy.png')
+            titulo: 'Lives Well Lived',
+            descricao: 'Peter Singer & Kasia de Lazari Radek',
+            imagem: require('../../assets/podcasts/lwlpt.png')
         },
         {
             id: '3',
-            titulo: 'IGOR',
-            descricao: 'Tyler, The Creator',
-            imagem: require('../../assets/ouvido/igor.png')
+            titulo: 'Café Para Dois',
+            descricao: 'Alê Braz',
+            imagem: require('../../assets/podcasts/cpd.png')
         },
         {
             id: '4',
-            titulo: 'Patrono',
-            descricao: '2ZDinizz',
-            imagem: require('../../assets/ouvido/patrono.png')
+            titulo: 'Broxada Sinistra',
+            descricao: 'Broxada Sinistra',
+            imagem: require('../../assets/podcasts/broxada.png')
         }
     ]
 };
