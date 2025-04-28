@@ -24,6 +24,12 @@ const podcasts = {
             titulo: 'Broxada Sinistra',
             descricao: 'Broxada Sinistra',
             imagem: require('../../assets/podcasts/broxada.png')
+        },
+        {
+            id: '5',
+            titulo: 'Café com Crime',
+            descricao: 'Café com Crime',
+            imagem: require('../../assets/podcasts/ccc.png')
         }
     ]
 };
